@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-task-6/static/css/main.a39d34e3.chunk.css",
+    "main.js": "/React-task-6/static/js/main.60327b10.chunk.js",
+    "main.js.map": "/React-task-6/static/js/main.60327b10.chunk.js.map",
+    "runtime-main.js": "/React-task-6/static/js/runtime-main.245630de.js",
+    "runtime-main.js.map": "/React-task-6/static/js/runtime-main.245630de.js.map",
+    "static/js/2.f96f6f38.chunk.js": "/React-task-6/static/js/2.f96f6f38.chunk.js",
+    "static/js/2.f96f6f38.chunk.js.map": "/React-task-6/static/js/2.f96f6f38.chunk.js.map",
+    "index.html": "/React-task-6/index.html",
+    "static/css/main.a39d34e3.chunk.css.map": "/React-task-6/static/css/main.a39d34e3.chunk.css.map",
+    "static/js/2.f96f6f38.chunk.js.LICENSE.txt": "/React-task-6/static/js/2.f96f6f38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.245630de.js",
+    "static/js/2.f96f6f38.chunk.js",
+    "static/css/main.a39d34e3.chunk.css",
+    "static/js/main.60327b10.chunk.js"
+  ]
+}
